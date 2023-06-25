@@ -1,8 +1,8 @@
-package day3;
+package Day3;
 
 import java.util.Scanner;
 
-public class thirdCode {
+public class ThirdCode {
     public static void main(String[] args){
         Scanner sc =new Scanner(System.in);
         int age = sc.nextInt();

@@ -1,6 +1,6 @@
-package day2;
+package Day2;
 
-public class secondCode {
+public class SecondCode {
     public static void main(String[] args){
         byte v1 = 12;
         short v2 = 453;
@@ -10,6 +10,5 @@ public class secondCode {
         double v6 = 567.32d;
 
         System.out.println(v1 + "\n" + v2+ "\n" + v3 + "\n" + v4 + "\n" + v5 + "\n" + v6 +"\n");
-
     }
 }
